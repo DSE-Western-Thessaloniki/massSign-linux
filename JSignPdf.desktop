@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+MimeType=application/pdf;
+Actions=jsignpdfmass
+
+[Desktop Action jsignpdfmass]
+Name=Υπογραφή
+Icon=background
+Exec=jsignpdfmass.sh %F
